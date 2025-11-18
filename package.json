@@ -1,0 +1,16 @@
+{
+  "name": "gami-peg-tracker-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot tracking asset peg using GeckoTerminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}

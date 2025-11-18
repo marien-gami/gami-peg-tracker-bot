@@ -1,0 +1,1 @@
+// index.jsimport "dotenv/config";import { startPegWatcher } from "./alerts/pegWatcher.js";function main() {  console.log("🤖 gami-peg-tracker-bot starting...");  startPegWatcher();}main();
